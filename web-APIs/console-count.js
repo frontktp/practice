@@ -1,0 +1,10 @@
+// .count() .countReset()
+// 콘솔에 메소드 호출의 누적횟수를 출력하거나 초기화.
+console.count('a')
+console.count('a')
+console.count('b')
+console.count('a')
+console.log('Reset a!')
+console.countReset('a')
+console.count('a')
+console.count('b')
