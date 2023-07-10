@@ -2,6 +2,47 @@
 폴더별로 관련된 JavaScript 공부한 내용을 정리한 프로젝트
 폴더 내부의 각 파일들은 설명과 예시를 포함하고 있습니다.
 
+## JS-data
+JavaScript의 원시형과 참조형 데이터에 대해 정리한 폴더입니다.
+- array.js
+  - Array(배열)과 인덱싱
+- function.js
+  - 함수의 기본
+- object.js
+  - 객체의 사용 방식들
+- truthyFalsy.js
+  - 참과 거짓 판별
+- typeConversion.js
+  - 형 변환
+- typeof.js
+  - 데이터 타입 확인
+ 
+## operator
+연산자와 구문에 관련된 내용을 정리한 폴더입니다.
+
+- arithmetic.js
+  - 산술(Arithmetic), 할당, 증감
+- destructuring.js
+  - 구조 분해 할당(Destructuring assignment)
+- for.js
+  - for 반복문
+- ifSwitch.js
+  - if 조건문, switch 조건문
+- logical.js
+  - 논리 연산자
+- negation-comparison
+  - 부정과 비교
+- nullish.js
+  - nullish 병합
+- optionalChaning.js
+  - 선택적 체이닝(Optional Chaining)
+- spread.js
+  - 전개 연산자
+- ternary.js
+  - 삼항(ternary) 연산자
+- whild.js
+  - while, do whild 반복문
+ 
 
 ## DOM
 JavaScript의 DOM과 관련된 내용을 정리한 폴더입니다.
